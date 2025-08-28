@@ -47,7 +47,7 @@ Opcional:
 
 1. **Baixar o projeto** 
    ```bash
-   git clone ...
+   git clone https://github.com/KayllaneGPina/gestao-comunitaria-app.git
    ```
 
 2. **Abrir o terminal** na pasta do projeto e instalar dependências:
@@ -90,16 +90,13 @@ Opcional:
 - **2.3 Principais modelos de navegação:** usa **Bottom Tabs** (Abas) para navegação principal e **Stack** para telas de detalhe/criação.
 - **2.4 Recursos de estilização e animação:** `AnimatedCard` usa `Animated` para transições sutis; estilos via `StyleSheet`.
 
-## Sugestões para entrega do trabalho / evidências
-
-- Fazer prints das telas (Início, Atividades com filtro ativo, Criar atividade, Detalhes).
-- Resumir como a solução ajuda uma ONG/associação a organizar voluntariado e eventos.
-- Incluir arquitetura simplificada (diagrama) se desejar.
-
 ## Observações
 
 - Este projeto é um protótipo didático — dados são mantidos apenas em memória (não há backend nem persistência após fechar o app).
 - Se quiser, posso adicionar persistência local com `AsyncStorage` ou integração com Firebase mais tarde.
+
+## Resultado
+[![Assista ao vídeo de apresentação](assets/video-thumb.png)](video/WhatsApp%20Video%202025-08-27%20at%2022.22.18.mp4)
 
 ---
 Licença: uso acadêmico.

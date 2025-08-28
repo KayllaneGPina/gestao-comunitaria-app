@@ -30,5 +30,8 @@ Thumbs.db
 .idea/
 *.iml
 
-# Env files (caso adicione variáveis secretas futuramente)
+# Video apresentando o sistema
+/video/
+
+# Env files 
 .env
