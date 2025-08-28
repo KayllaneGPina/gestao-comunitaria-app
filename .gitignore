@@ -30,8 +30,5 @@ Thumbs.db
 .idea/
 *.iml
 
-# Video apresentando o sistema
-/video/
-
 # Env files 
 .env
