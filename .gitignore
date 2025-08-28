@@ -1,0 +1,34 @@
+# Node modules
+/node_modules/
+/npm-debug.log
+/yarn-error.log
+
+# Expo
+.expo/
+.expo-shared/
+
+# Metro bundler
+/metro-cache/
+/.expo-packager-cache-*
+
+# Build outputs
+/web-build/
+/dist/
+/build/
+/android/
+/ios/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor
+.vscode/
+.idea/
+*.iml
+
+# Env files (caso adicione variáveis secretas futuramente)
+.env
