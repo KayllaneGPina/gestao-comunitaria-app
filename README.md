@@ -93,7 +93,6 @@ Opcional:
 ## Observações
 
 - Este projeto é um protótipo didático — dados são mantidos apenas em memória (não há backend nem persistência após fechar o app).
-- Se quiser, posso adicionar persistência local com `AsyncStorage` ou integração com Firebase mais tarde.
 
 ## Resultado
 [![Assista ao vídeo de apresentação](assets/video-thumb.png)](video/WhatsApp%20Video%202025-08-27%20at%2022.22.18.mp4)
